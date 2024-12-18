@@ -2,7 +2,10 @@
 const sounds = [
     { id: 'sound1', src: 'http://commondatastorage.googleapis.com/codeskulptor-demos/DDR_assets/Sevish_-__nbsp_.mp3' },
     { id: 'sound2', src: 'http://codeskulptor-demos.commondatastorage.googleapis.com/pang/paza-moduless.mp3' },
-    { id: 'sound3', src: 'http://commondatastorage.googleapis.com/codeskulptor-demos/pyman_assets/ateapill.ogg' }
+    { id: 'sound3', src: 'http://commondatastorage.googleapis.com/codeskulptor-demos/pyman_assets/ateapill.ogg' },
+    { id: 'sound4', src: 'http://codeskulptor-demos.commondatastorage.googleapis.com/descent/Crumble%20Sound.mp3' },
+    { id: 'sound5', src: 'http://codeskulptor-demos.commondatastorage.googleapis.com/descent/background%20music.mp3' },
+    { id: 'sound6', src: 'http://codeskulptor-demos.commondatastorage.googleapis.com/descent/gotitem.mp3' }
 ];
 
 // Function to stop all sounds
